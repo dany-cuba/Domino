@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dominó!</string>
+    <string name="bJugar">Jugar</string>
+    <string name="textoPuntos">Puntos:</string>
+    <string name="textoPase">Pase</string>
+    <string name="textoSumar">Adicionar</string>
+    <string name="textoPegue">PEGUE</string>
+    <string name="textoPaseMano">Pase de Mano</string>
+    <string name="PuntuacionInicial">0</string>
+    <string name="Guion">-</string>
+    <string name="imagenes_de_domino">Imagenes_de_domino</string>
+</resources>
